@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        android:entries="@array/filterName"
+        android:entryValues="@array/filterNameValues"
+        android:key="filter_preference_list"
+        android:shouldDisableView="true"
+        android:title="@string/select_filter"
+        app:icon="@drawable/filter_image"
+        app:useSimpleSummaryProvider="true" />
+</PreferenceScreen>

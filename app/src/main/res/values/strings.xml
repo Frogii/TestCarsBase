@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestCarsBase</string>
+    <string name="add_new_car">Add car</string>
+    <string name="filter">Filter</string>
+    <string name="select_filter">Choose filter</string>
+    <string name="cars_count">Cars in base: %1$d</string>
+    <string name="car_name">Brand %1$s</string>
+    <string name="car_year">Year %1$s</string>
+    <string name="car_color">Color %1$s</string>
+    <string name="hint_car_name">Brand</string>
+    <string name="hint_car_year">Year</string>
+    <string name="hint_car_color">Color</string>
+</resources>
