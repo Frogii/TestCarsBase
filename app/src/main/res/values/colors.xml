@@ -5,7 +5,7 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="appBackground">#A3E1DB</color>
     <color name="blackColor">#000</color>
-    <color name="addBtnColor">#28A111</color>
+    <color name="addBtnColor">#EF0C0C</color>
     <color name="filterBtnColor">#1985DA</color>
     <color name="recyclerBackground">#7692A8</color>
 </resources>
